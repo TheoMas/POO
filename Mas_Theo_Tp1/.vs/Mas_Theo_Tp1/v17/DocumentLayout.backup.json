@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Th\u00E9oMas\\source\\Workspaces\\POO\\Mas_Theo_Tp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|c:\\users\\th\u00E9omas\\source\\workspaces\\poo\\mas_theo_tp1\\armory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|solutionrelative:armory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|c:\\users\\th\u00E9omas\\source\\workspaces\\poo\\mas_theo_tp1\\spaceinvaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|solutionrelative:spaceinvaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|c:\\users\\th\u00E9omas\\source\\workspaces\\poo\\mas_theo_tp1\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|solutionrelative:spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|c:\\users\\th\u00E9omas\\source\\workspaces\\poo\\mas_theo_tp1\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|solutionrelative:weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|c:\\users\\th\u00E9omas\\source\\workspaces\\poo\\mas_theo_tp1\\armoryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|solutionrelative:armoryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|c:\\users\\th\u00E9omas\\source\\workspaces\\poo\\mas_theo_tp1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArmoryException.cs",
+              "DocumentMoniker": "C:\\Users\\Th\u00E9oMas\\source\\Workspaces\\POO\\Mas_Theo_Tp1\\ArmoryException.cs",
+              "RelativeDocumentMoniker": "ArmoryException.cs",
+              "ToolTip": "C:\\Users\\Th\u00E9oMas\\source\\Workspaces\\POO\\Mas_Theo_Tp1\\ArmoryException.cs",
+              "RelativeToolTip": "ArmoryException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T06:40:54.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Armory.cs",
+              "DocumentMoniker": "C:\\Users\\Th\u00E9oMas\\source\\Workspaces\\POO\\Mas_Theo_Tp1\\Armory.cs",
+              "RelativeDocumentMoniker": "Armory.cs",
+              "ToolTip": "C:\\Users\\Th\u00E9oMas\\source\\Workspaces\\POO\\Mas_Theo_Tp1\\Armory.cs",
+              "RelativeToolTip": "Armory.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAIA9wFUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T15:02:28.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weapons.cs",
+              "DocumentMoniker": "C:\\Users\\Th\u00E9oMas\\source\\Workspaces\\POO\\Mas_Theo_Tp1\\Weapons.cs",
+              "RelativeDocumentMoniker": "Weapons.cs",
+              "ToolTip": "C:\\Users\\Th\u00E9oMas\\source\\Workspaces\\POO\\Mas_Theo_Tp1\\Weapons.cs",
+              "RelativeToolTip": "Weapons.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T14:59:58.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Spaceship.cs",
+              "DocumentMoniker": "C:\\Users\\Th\u00E9oMas\\source\\Workspaces\\POO\\Mas_Theo_Tp1\\Spaceship.cs",
+              "RelativeDocumentMoniker": "Spaceship.cs",
+              "ToolTip": "C:\\Users\\Th\u00E9oMas\\source\\Workspaces\\POO\\Mas_Theo_Tp1\\Spaceship.cs",
+              "RelativeToolTip": "Spaceship.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T14:57:47.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpaceInvaders.cs",
+              "DocumentMoniker": "C:\\Users\\Th\u00E9oMas\\source\\Workspaces\\POO\\Mas_Theo_Tp1\\SpaceInvaders.cs",
+              "RelativeDocumentMoniker": "SpaceInvaders.cs",
+              "ToolTip": "C:\\Users\\Th\u00E9oMas\\source\\Workspaces\\POO\\Mas_Theo_Tp1\\SpaceInvaders.cs",
+              "RelativeToolTip": "SpaceInvaders.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T14:26:37.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Th\u00E9oMas\\source\\Workspaces\\POO\\Mas_Theo_Tp1\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\Th\u00E9oMas\\source\\Workspaces\\POO\\Mas_Theo_Tp1\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T13:58:34.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

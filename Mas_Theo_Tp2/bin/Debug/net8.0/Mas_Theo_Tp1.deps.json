@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Mas_Theo_Tp1/1.0.0": {
+        "runtime": {
+          "Mas_Theo_Tp1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mas_Theo_Tp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -30,28 +30,33 @@ namespace Mas_Theo_Tp1
                 Console.WriteLine($"{i} - {weapon.Name} , Reload time left : {weapon.TimeBeforReload} \n");
                 i++;
             }
-            Console.WriteLine("Choissisez le numéro d'arme a utiliser : ");
-            choix = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Choisissez le numéro d'arme à utiliser : ");
+            
             bool choixUserIsValid = false;
             while (!choixUserIsValid)
             {
-                if (choix < 3 || choix > 0
-                    && !SpaceshipWeapons[choix].IsReload)
+                choix = Convert.ToInt32(Console.ReadLine());
+                
+                if (choix > 0 && choix <= SpaceshipWeapons.Count)
                 {
-                    choixUser = SpaceshipWeapons[choix];
-                    target.TakeDamages(choixUser.Shoot());
-                    choixUserIsValid = true;
+                    choixUser = SpaceshipWeapons[choix - 1];
+                    
+                    if (choixUser.IsReload)
+                    {
+                        Console.WriteLine("Cette arme est en rechargement, veuillez en sélectionner une autre :");
+                    }
+                    else
+                    {
+                        double damage = choixUser.Shoot();
+                        target.TakeDamages(damage);
+                        choixUserIsValid = true;
+                    }
                 }
-                else if (choix > 3 || choix < 0)
+                else
                 {
-                    Console.WriteLine("Le nombre entré ne fait pas parti des choix possibles, veuillez en selectionner un autre");
-                }
-                else if (SpaceshipWeapons[choix].IsReload)
-                {
-                    Console.WriteLine("Cette arme est en rechargement veuillez en selectionner une autre");
+                    Console.WriteLine("Le nombre entré ne fait pas partie des choix possibles, veuillez en sélectionner un autre :");
                 }
             }
-            
         }
     }
 }

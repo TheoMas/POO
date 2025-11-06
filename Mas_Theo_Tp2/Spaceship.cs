@@ -119,17 +119,25 @@ namespace Mas_Theo_Tp1
         {
             if(this.CurrentShield > 0)
             {
-                double reste = 0;
-                if (this.CurrentShield - damages < 0)
+                if (this.CurrentShield - damages >= 0)
                 {
-                    reste = CurrentShield - damages;
+                    CurrentShield -= damages;
+                }
+                else
+                {
+                    double reste = damages - CurrentShield;
                     CurrentShield = 0;
-                    CurrentStructure -= damages;
+                    CurrentStructure -= reste;
                 }
             }
             else
             {
-                CurrentShield -= damages;
+                CurrentStructure -= damages;
+            }
+            if (CurrentStructure <= 0)
+            {
+                CurrentStructure = 0;
+                IsDestroyed = true;
             }
         }
 
@@ -137,7 +145,7 @@ namespace Mas_Theo_Tp1
         {
             if(this.CurrentShield + repair <= this.Shield)
             {
-                this.CurrentStructure += repair;
+                this.CurrentShield += repair;
             }
             else
             {

@@ -1,30 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp1\\",
+  "WorkspaceRootPath": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|c:\\users\\th\u00E9omas\\documents\\ecole\\poo\\mas_theo_tp1\\armory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|solutionrelative:armory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|c:\\users\\th\u00E9omas\\documents\\ecole\\poo\\mas_theo_tp1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|c:\\users\\th\u00E9omas\\documents\\ecole\\poo\\mas_theo_tp1\\armoryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|solutionrelative:armoryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|c:\\users\\th\u00E9omas\\documents\\ecole\\poo\\mas_theo_tp1\\spaceinvaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|c:\\users\\th\u00E9omas\\documents\\ecole\\poo\\mas_theo_tp2\\spaceinvaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|solutionrelative:spaceinvaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|c:\\users\\th\u00E9omas\\documents\\ecole\\poo\\mas_theo_tp1\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|c:\\users\\th\u00E9omas\\documents\\ecole\\poo\\mas_theo_tp2\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|solutionrelative:spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|c:\\users\\th\u00E9omas\\documents\\ecole\\poo\\mas_theo_tp1\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|solutionrelative:weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|c:\\users\\th\u00E9omas\\documents\\ecole\\poo\\mas_theo_tp2\\armory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|solutionrelative:armory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp1\\Player.cs",
-              "RelativeDocumentMoniker": "Player.cs",
-              "ToolTip": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp1\\Player.cs",
-              "RelativeToolTip": "Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Spaceship.cs",
+              "DocumentMoniker": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp2\\Spaceship.cs",
+              "RelativeDocumentMoniker": "Spaceship.cs",
+              "ToolTip": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp2\\Spaceship.cs",
+              "RelativeToolTip": "Spaceship.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAuwI8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T10:03:32.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ArmoryException.cs",
-              "DocumentMoniker": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp1\\ArmoryException.cs",
-              "RelativeDocumentMoniker": "ArmoryException.cs",
-              "ToolTip": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp1\\ArmoryException.cs",
-              "RelativeToolTip": "ArmoryException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T06:40:54.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Armory.cs",
-              "DocumentMoniker": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp1\\Armory.cs",
-              "RelativeDocumentMoniker": "Armory.cs",
-              "ToolTip": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp1\\Armory.cs",
-              "RelativeToolTip": "Armory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T15:02:28.318Z",
+              "WhenOpened": "2025-10-28T09:30:43.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Spaceship.cs",
-              "DocumentMoniker": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp1\\Spaceship.cs",
-              "RelativeDocumentMoniker": "Spaceship.cs",
-              "ToolTip": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp1\\Spaceship.cs",
-              "RelativeToolTip": "Spaceship.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T14:57:47.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Weapons.cs",
-              "DocumentMoniker": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp1\\Weapons.cs",
-              "RelativeDocumentMoniker": "Weapons.cs",
-              "ToolTip": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp1\\Weapons.cs",
-              "RelativeToolTip": "Weapons.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T14:59:58.271Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "SpaceInvaders.cs",
-              "DocumentMoniker": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp1\\SpaceInvaders.cs",
+              "DocumentMoniker": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp2\\SpaceInvaders.cs",
               "RelativeDocumentMoniker": "SpaceInvaders.cs",
-              "ToolTip": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp1\\SpaceInvaders.cs",
+              "ToolTip": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp2\\SpaceInvaders.cs",
               "RelativeToolTip": "SpaceInvaders.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwCAAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T14:26:37.424Z"
+              "WhenOpened": "2025-10-28T09:23:20.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Armory.cs",
+              "DocumentMoniker": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp2\\Armory.cs",
+              "RelativeDocumentMoniker": "Armory.cs",
+              "ToolTip": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp2\\Armory.cs",
+              "RelativeToolTip": "Armory.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T09:17:06.019Z",
+              "EditorCaption": ""
             }
           ]
         }

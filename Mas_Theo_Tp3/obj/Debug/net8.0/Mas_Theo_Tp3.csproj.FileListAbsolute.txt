@@ -1,0 +1,15 @@
+C:\Users\ThéoMas\Documents\Ecole\POO\Mas_Theo_Tp3\bin\Debug\net8.0\Mas_Theo_Tp3.exe
+C:\Users\ThéoMas\Documents\Ecole\POO\Mas_Theo_Tp3\bin\Debug\net8.0\Mas_Theo_Tp3.deps.json
+C:\Users\ThéoMas\Documents\Ecole\POO\Mas_Theo_Tp3\bin\Debug\net8.0\Mas_Theo_Tp3.runtimeconfig.json
+C:\Users\ThéoMas\Documents\Ecole\POO\Mas_Theo_Tp3\bin\Debug\net8.0\Mas_Theo_Tp3.dll
+C:\Users\ThéoMas\Documents\Ecole\POO\Mas_Theo_Tp3\bin\Debug\net8.0\Mas_Theo_Tp3.pdb
+C:\Users\ThéoMas\Documents\Ecole\POO\Mas_Theo_Tp3\obj\Debug\net8.0\Mas_Theo_Tp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThéoMas\Documents\Ecole\POO\Mas_Theo_Tp3\obj\Debug\net8.0\Mas_Theo_Tp3.AssemblyInfoInputs.cache
+C:\Users\ThéoMas\Documents\Ecole\POO\Mas_Theo_Tp3\obj\Debug\net8.0\Mas_Theo_Tp3.AssemblyInfo.cs
+C:\Users\ThéoMas\Documents\Ecole\POO\Mas_Theo_Tp3\obj\Debug\net8.0\Mas_Theo_Tp3.csproj.CoreCompileInputs.cache
+C:\Users\ThéoMas\Documents\Ecole\POO\Mas_Theo_Tp3\obj\Debug\net8.0\Mas_Theo_Tp3.sourcelink.json
+C:\Users\ThéoMas\Documents\Ecole\POO\Mas_Theo_Tp3\obj\Debug\net8.0\Mas_Theo_Tp3.dll
+C:\Users\ThéoMas\Documents\Ecole\POO\Mas_Theo_Tp3\obj\Debug\net8.0\refint\Mas_Theo_Tp3.dll
+C:\Users\ThéoMas\Documents\Ecole\POO\Mas_Theo_Tp3\obj\Debug\net8.0\Mas_Theo_Tp3.pdb
+C:\Users\ThéoMas\Documents\Ecole\POO\Mas_Theo_Tp3\obj\Debug\net8.0\Mas_Theo_Tp3.genruntimeconfig.cache
+C:\Users\ThéoMas\Documents\Ecole\POO\Mas_Theo_Tp3\obj\Debug\net8.0\ref\Mas_Theo_Tp3.dll

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|c:\\users\\th\u00E9omas\\documents\\ecole\\poo\\mas_theo_tp1\\spaceinvaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|solutionrelative:spaceinvaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|c:\\users\\th\u00E9omas\\documents\\ecole\\poo\\mas_theo_tp1\\armory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|solutionrelative:armory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|c:\\users\\th\u00E9omas\\documents\\ecole\\poo\\mas_theo_tp1\\armoryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|solutionrelative:armoryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|c:\\users\\th\u00E9omas\\documents\\ecole\\poo\\mas_theo_tp1\\spaceinvaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|solutionrelative:spaceinvaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFFCEBCF-3F3A-4714-AE78-33A91EC07ED4}|Mas_Theo_Tp1.csproj|c:\\users\\th\u00E9omas\\documents\\ecole\\poo\\mas_theo_tp1\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +34,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp1\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
@@ -50,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ArmoryException.cs",
               "DocumentMoniker": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp1\\ArmoryException.cs",
               "RelativeDocumentMoniker": "ArmoryException.cs",
@@ -62,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Armory.cs",
               "DocumentMoniker": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp1\\Armory.cs",
               "RelativeDocumentMoniker": "Armory.cs",
@@ -99,15 +107,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "SpaceInvaders.cs",
               "DocumentMoniker": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp1\\SpaceInvaders.cs",
               "RelativeDocumentMoniker": "SpaceInvaders.cs",
               "ToolTip": "C:\\Users\\Th\u00E9oMas\\Documents\\Ecole\\POO\\Mas_Theo_Tp1\\SpaceInvaders.cs",
               "RelativeToolTip": "SpaceInvaders.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwCAAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCAAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T14:26:37.424Z"
+              "WhenOpened": "2025-10-13T14:26:37.424Z",
+              "EditorCaption": ""
             }
           ]
         }
